@@ -8,3 +8,9 @@ I hope this can help you in your job as it helped to me.
 2. Then open illustrator
 3. File > script > load script
 4. Select the script and execute
+
+# Scripts:
+## EAN13 barcode generator
+Is my own implementation of barcode algorithm based on wikipedia article [International Article Number](https://en.wikipedia.org/wiki/International_Article_Number). Which allows to create a barcode using *Rectangle Items* and *Text Items* only.
+The last digit the check digit is generated automatically.
+
