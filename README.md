@@ -21,3 +21,4 @@ This script allows you to do a **deep cleaning** of illustrator document.
 By default illustrator gives you some swatches, symbols, artboards, layers, etc. Some times you don't need them because your art is basic ( i.e: a plain icon). Then it becomes a waste of space in your hard drive. Maybe for one single file it could not be significant, but if you have hundred, or million of files in your hard drive, it could be a great deal for saving some space. Or maybe think you don't want to be persuaded for use the default color swatches, it also can be helpful for you to be more original.
 This script gives you a graphical interface to select what do you want to delete from your document.
 
+![ezgif-5-c82054a81a](https://user-images.githubusercontent.com/30961691/195481558-1872f5d6-3fcd-4f87-83d3-a1617bf205a6.gif)
